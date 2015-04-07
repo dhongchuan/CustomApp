@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>        
+    <declare-styleable name="ChangeColorButton">
+        <attr name="menu_icon" format="reference"></attr>
+        <attr name="menu_text" format="string"></attr>
+    </declare-styleable>
+</resources>
