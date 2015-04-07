@@ -15,7 +15,7 @@ public class SlideMenuActivity extends FragmentActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_slide_menu_2);
+		setContentView(R.layout.activity_slide_menu);
 		fm = getSupportFragmentManager();
         mFragment = fm.findFragmentById(R.id.content);
         if(mFragment == null){
